@@ -1,1 +1,1 @@
-Завантажити репозиторій на сервер-git push -u origin master
+Завантажити репозиторій на сервер: git push -u origin master
