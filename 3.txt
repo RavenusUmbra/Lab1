@@ -1,1 +1,7 @@
 Створення нової гілки: git branch НазваГілки
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
