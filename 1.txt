@@ -1,1 +1,5 @@
- Перегляд історії комітів: git log
+Перегляд історії комітів: git log
+HEADINGS
+# A first-level heading
+## A second-level heading
+### A third-level heading
